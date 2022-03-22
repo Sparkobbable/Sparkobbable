@@ -30,5 +30,6 @@ My name is Jakob Wilmesmeier and I am a Software Developer from Germany.
   
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Sparkobbable&count_private=true&langs_count=6&layout=compact)](https://github.com/Sparkobbable?tab=repositories)
-![Profile View Counter](https://komarev.com/ghpvc/?username=Sparkobbable)
+
+![Views since May 2021](https://komarev.com/ghpvc/?username=Sparkobbable)
 
