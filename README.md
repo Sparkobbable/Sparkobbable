@@ -3,7 +3,7 @@
 My name is Jakob Wilmesmeier and I am a Software Developer from Germany.
 <!-- BLOG-POST-LIST:START -->
 - 🔭 Currently employed by [Atruvia](https://atruvia.de/) as a full-stack developer
-- 📚 Studying Business Computer Science at [HSW](https://www.hsw-hameln.de/) - finishing my bachelor grade this year
+- 📚 Finished my bachelor grade in Business Computer Science at [HSW](https://www.hsw-hameln.de/)
 - 🚀 Enjoying frontend development and setting up UIs
 - 🌱 Learning client side technologies like JS and TS
 - 🤝 Like working in agile environments
