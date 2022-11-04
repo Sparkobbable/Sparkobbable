@@ -9,6 +9,8 @@ My name is Jakob Wilmesmeier and I am a Software Developer from Germany.
 - 🤝 Like working in agile environments
 <!-- BLOG-POST-LIST:END -->
 
+My current project is a [Spotify Voting Queue](https://github.com/SpotifyVotingQueue), mainly the frontend part.
+
 # 🔧 Technologies & Skills
   <code><img height="40" src="https://github.com/Sparkobbable/Sparkobbable/raw/1e3b59e6e99ebff45568317793c7d1c254b72284/226777.png" alt="Java"></code>
   <code><img height="40" src="https://github.com/Sparkobbable/Sparkobbable/raw/master/index.png" alt="JavaScript"></code>
